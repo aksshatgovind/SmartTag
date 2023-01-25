@@ -7,7 +7,7 @@ PiTag will make parking of vehicles in easy and effortless manner.
 ## Software Technologies
 * C
 * Microcontrollers (MCUs)
-* NFC
+* Pi Cryptocurrency
 
 ## Working
 Tap card, to save smartcard info locally.
