@@ -1,8 +1,8 @@
-# PiTag
+# SmartTag for Pi
 Smart Card for Parking System
 
 ## About
-PiTag will make parking of vehicles in easy and effortless manner.
+SmartTag will make parking of vehicles in easy and effortless manner.
 
 ## Software Technologies
 * C
